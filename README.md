@@ -17,7 +17,7 @@ A concise, one-to-two sentence description of what this project does. Mention th
 - **Frontend:** React, Tailwind CSS
 - **Backend:** Node.js, Express, C#
 - **Database:** PostgreSQL
-- **DevOps:** Docker, GitHub Actions
+- **DevOps:** Docker
 
 ## 📦 Getting Started
 
@@ -25,7 +25,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ### Prerequisites
 
-List the software and versions required to run the application:
+List the software and versions required to run the application in computer:
 - Node.js (v18.0.0 or higher)
 - npm (v9.0.0 or higher)
 - Docker (optional)
