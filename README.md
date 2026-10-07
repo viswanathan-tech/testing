@@ -15,7 +15,7 @@ A concise, one-to-two sentence description of what this project does. Mention th
 ## 🛠️ Tech Stack
 
 - **Frontend:** React, Tailwind CSS
-- **Backend:** Node.js, Express
+- **Backend:** Node.js, Express, C#
 - **Database:** PostgreSQL
 - **DevOps:** Docker, GitHub Actions
 
@@ -74,9 +74,10 @@ npm run test
 
 ## 🗺️ Roadmap
 
-- [x] Initial release with core features
+- [x] Initial release with core features is important
 - [ ] Add OAuth2 authentication
 - [ ] Implement multi-language support (i18n)
+- [ ] added the required things
 
 ## 🤝 Contributing
 
@@ -94,6 +95,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📬 Contact
 
-Your Name - [@your_twitter](https://twitter.com) - email@example.com
+Your Name - [@viswanathan](https://twitter.com) - email@example.com
 
 Project Link: [https://github.com](https://github.com)
