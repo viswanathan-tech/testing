@@ -14,7 +14,7 @@ A concise, one-to-two sentence description of what this project does. Mention th
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React, Tailwind CSS
+- **Frontend:** React, Tailwind CSS, ember
 - **Backend:** Node.js, Express, C#
 - **Database:** PostgreSQL
 - **DevOps:** Docker
